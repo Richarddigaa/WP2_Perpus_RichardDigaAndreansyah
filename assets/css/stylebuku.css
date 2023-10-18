@@ -1,16 +1,16 @@
 body{
     background: #eee;
-    color: #333;
+    color: #fff;
     font-family: sans-serif;
     font-size:15px;
 }
 #wrapper{
-    background: #fff;
+    background: #3876BF;
     width: 1100px;
     margin: 20px auto;
 }
 #wrapper header{
-    background: #232323;
+    background: #192655;
     padding: 20px;
 }
 #wrapper header hgroup{
@@ -38,7 +38,7 @@ body{
     clear: both;
 }
 footer{
-    background: #232323;
+    background: #192655;
     padding: 20px;
 }
 footer a{
