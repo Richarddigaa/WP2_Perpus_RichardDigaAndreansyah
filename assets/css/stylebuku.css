@@ -1,21 +1,21 @@
 body{
-    background: #eee;
-    color: #fff;
+    background: #fff;
+    color: #000000;
     font-family: sans-serif;
     font-size:15px;
 }
 #wrapper{
-    background: #3876BF;
+    background: #eee;
     width: 1100px;
     margin: 20px auto;
 }
 #wrapper header{
-    background: #192655;
+    background: #64CCC5;
     padding: 20px;
 }
 #wrapper header hgroup{
     float: left;
-    color: #fff;
+    color: #000000;
 }
 #wrapper header nav{
     float: right;
@@ -31,18 +31,24 @@ body{
 }
 #wrapper header nav ul li a{
     padding: 15px;
-    color: #fff;
+    color: #000000;
     text-decoration: none;
 }
 .clear{
     clear: both;
 }
+.profile {
+    text-align: center;
+}
+.data {
+    text-align: center;
+}
 footer{
-    background: #192655;
+    background: #64CCC5;
     padding: 20px;
 }
 footer a{
-    color: #fff;
+    color: #000000;
     text-decoration: none;
 }
 section{
