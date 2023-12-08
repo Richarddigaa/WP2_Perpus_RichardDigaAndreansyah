@@ -5,9 +5,9 @@ body{
     font-size:15px;
 }
 #wrapper{
-    background: #eee;
-    width: 1100px;
-    margin: 20px auto;
+        background: #eee;
+        width: 1100px;
+        margin: 20px auto;
 }
 #wrapper header{
     background: #78D6C6;
